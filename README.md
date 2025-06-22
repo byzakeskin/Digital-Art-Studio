@@ -1,4 +1,4 @@
-## 🎨 Dijital Sanat Stüdyosu
+## 🎨 Dijital Sanat Sergisi
 Kullanıcının dijital sanat eserlerini sergileyebildiği, ve yönetebildiği web tabanlı bir platform.
 
 💻 Özellikler
