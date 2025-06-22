@@ -55,7 +55,9 @@ Seçilen sanatçı ve kategoriye göre galeri yeniden yüklenir, ilgili filtre u
 
 Sıfırla Butonu:
 Tüm filtreleri temizleyerek varsayılan (tüm sanat eserleri) görünümüne geri döner.
+<br>
 .
+<br>
 .
 
 ![Ana Ekran Sergi Bölümü](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/ANA%20EKRAN%20-%202.png)
