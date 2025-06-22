@@ -80,13 +80,17 @@ Kategori
 Kartlara tıklandığında, CSS ile hazırlanmış bir animasyon sayesinde kart çevrilir.
 
 Kartın arka yüzünde, esere dair kısa bir açıklama görüntülenir.
+<br>
 .
+<br>
 .
 
 ![Giriş Ekranı](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/G%C4%B0R%C4%B0%C5%9E%20EKRANI.png)
 
 Kullanıcı dostu basitleştirilmiş giriş ekranı
+<br>
 .
+<br>
 .
 
 ![Kişiye Özel Alan](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/%C3%96ZEL%20SERG%C4%B0%20PANOSU.png)
@@ -113,13 +117,17 @@ Sil: Sanat eserini veritabanından kaldırır.
 Giriş yapan kullanıcı yönetici yetkisine sahipse, ekranın sağ üst kısmında aşağıdaki butonlar görünür:
 
 KULLANICI EKLE: Yeni bir kullanıcı (sanatçı) ekleme sayfasına yönlendirir.
+<br>
 .
+<br>
 .
 
 ![Görsel Yükleme Alanı](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/G%C3%96RSEL%20Y%C3%9CKLEME%20ALANI.png)
 
 Görsel Yükleme Modalı
+<br>
 .
+<br>
 .
 ![Admin Kontrol Sayfası](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/ADM%C4%B0N%20KONTROL%20PANEL%C4%B0.png)
 
@@ -140,7 +148,9 @@ Sil: Kullanıcıyı sistemden kaldırır.
 Yeni kullanıcı eklemek için:
 
 Alt bölümde yer alan form aracılığıyla Ad Soyad, Email ve Şifre bilgileri girilerek kullanıcı oluşturulabilir.
+<br>
 .
+<br>
 .
 
 ![Görsel Güncelleme Alanı](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/ESER%20G%C3%9CNCELLEME%20ALANI.png)
