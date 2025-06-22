@@ -17,10 +17,10 @@ Microsoft SQL Server (MS SQL) veritabanı kullanılarak,
 Adobe ColdFusion kurulu bir sunucuda geliştirilmiştir. 
 
 ## Ekran Görüntüleri
-Projenin ana ekranı, kullanıcı dostu ve estetik olarak zengin bir dijital sanat galerisi arayüzü sunar. Aşağıda ekran bileşenleri detaylandırılmıştır:
 
 ![Ana Ekran Özellikleri](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/ANA%20EKRAN%20-%201.png)
 
+Projenin ana ekranı, kullanıcı dostu ve estetik olarak zengin bir dijital sanat galerisi arayüzü sunar. Aşağıda ekran bileşenleri detaylandırılmıştır:
 
 🔝 Üst Menü (Top Bar)
 Başlık: DİJİTAL SANAT SERGİSİ başlığı, kullanıcıyı karşılar.
@@ -55,6 +55,8 @@ Seçilen sanatçı ve kategoriye göre galeri yeniden yüklenir, ilgili filtre u
 
 Sıfırla Butonu:
 Tüm filtreleri temizleyerek varsayılan (tüm sanat eserleri) görünümüne geri döner.
+.
+.
 
 ![Ana Ekran Sergi Bölümü](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/ANA%20EKRAN%20-%202.png)
 
@@ -76,10 +78,14 @@ Kategori
 Kartlara tıklandığında, CSS ile hazırlanmış bir animasyon sayesinde kart çevrilir.
 
 Kartın arka yüzünde, esere dair kısa bir açıklama görüntülenir.
+.
+.
 
 ![Giriş Ekranı](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/G%C4%B0R%C4%B0%C5%9E%20EKRANI.png)
 
 Kullanıcı dostu basitleştirilmiş giriş ekranı
+.
+.
 
 ![Kişiye Özel Alan](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/%C3%96ZEL%20SERG%C4%B0%20PANOSU.png)
 
@@ -105,11 +111,14 @@ Sil: Sanat eserini veritabanından kaldırır.
 Giriş yapan kullanıcı yönetici yetkisine sahipse, ekranın sağ üst kısmında aşağıdaki butonlar görünür:
 
 KULLANICI EKLE: Yeni bir kullanıcı (sanatçı) ekleme sayfasına yönlendirir.
+.
+.
 
 ![Görsel Yükleme Alanı](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/G%C3%96RSEL%20Y%C3%9CKLEME%20ALANI.png)
 
 Görsel Yükleme Modalı
-
+.
+.
 ![Admin Kontrol Sayfası](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/ADM%C4%B0N%20KONTROL%20PANEL%C4%B0.png)
 
 👤 Kullanıcı Yönetim Paneli
@@ -129,6 +138,8 @@ Sil: Kullanıcıyı sistemden kaldırır.
 Yeni kullanıcı eklemek için:
 
 Alt bölümde yer alan form aracılığıyla Ad Soyad, Email ve Şifre bilgileri girilerek kullanıcı oluşturulabilir.
+.
+.
 
 ![Görsel Güncelleme Alanı](https://github.com/byzakeskin/Digital-Art-Studio/blob/main/ESER%20G%C3%9CNCELLEME%20ALANI.png)
 
